@@ -1,4 +1,4 @@
-# Capstone---Disney-World-Predictor
+# Capstone Idea #1 Disney-World-Predictor
 
 ## Overview
 
