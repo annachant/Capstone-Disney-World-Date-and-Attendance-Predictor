@@ -11,8 +11,7 @@ Using the dataset, I will predict and rate whether a person should go to disney 
   <li>Hollywood Studios</li>
   <li>Animal Kingdom</li>
   </ul>
-<br>
-<br>
+
 ## 2. Predicting Survivabiity of Covid 19
 
 ### Overview
@@ -29,8 +28,7 @@ Using the COVID-19 data provided by the CDC, I will calculate a person's surviva
   <li> Vaccination Status </li>
 </ul>
 The datasets can be found here: https://covid.cdc.gov/covid-data-tracker/#datatracker-home.
-<br>
-<br>
+
 ## 3. Youtube Content Popularity Predictions
 
 ### Business Oveview
