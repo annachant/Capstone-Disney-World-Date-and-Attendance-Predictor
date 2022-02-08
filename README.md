@@ -1,6 +1,6 @@
 # Capstone Project Ideas
 
-## #1 Disney World Date and Attendance Predictor
+## 1. Disney World Date and Attendance Predictor
 
 ### Overview
 
@@ -13,7 +13,7 @@ Using the dataset, I will predict and rate whether a person should go to disney 
   </ul>
 <br>
 <br>
-## #2 Predicting Survivabiity of Covid 19
+## 2. Predicting Survivabiity of Covid 19
 
 ### Overview
 
@@ -31,7 +31,7 @@ Using the COVID-19 data provided by the CDC, I will calculate a person's surviva
 The datasets can be found here: https://covid.cdc.gov/covid-data-tracker/#datatracker-home.
 <br>
 <br>
-## #3 Youtube Content Popularity Predictions
+## 3. Youtube Content Popularity Predictions
 
 ### Business Oveview
 
