@@ -1,6 +1,8 @@
-# Capstone Idea #1 Disney World Date and Attendance Predictor
+# Capstone Project Ideas
 
-## Overview
+## #1 Disney World Date and Attendance Predictor
+
+### Overview
 
 Using the dataset, I will predict and rate whether a person should go to disney on a specific date. I will build these models based on the wait times for the most popular rides from the 4 parks at Walt Disney World in Orlando, FL. 
 <ul>
@@ -11,9 +13,9 @@ Using the dataset, I will predict and rate whether a person should go to disney 
   </ul>
 <br>
 <br>
-# Capstone Idea #2 Predicting Survivabiity of Covid 19
+## #2 Predicting Survivabiity of Covid 19
 
-## Overview
+### Overview
 
 Using the COVID-19 data provided by the CDC, I will calculate a person's survival percentage based on their different characteristics:
 
@@ -29,8 +31,8 @@ Using the COVID-19 data provided by the CDC, I will calculate a person's surviva
 The datasets can be found here: https://covid.cdc.gov/covid-data-tracker/#datatracker-home.
 <br>
 <br>
-# Capstone Idea #3 Youtube Content Popularity Predictions
+## #3 Youtube Content Popularity Predictions
 
-## Business Oveview
+### Business Oveview
 
 I will use the youtube data provided on kaggle to made predictions of the best categories of videos to make to gain the most views. Dataset can be found here: https://www.kaggle.com/rsrishav/youtube-trending-video-dataset
