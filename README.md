@@ -11,7 +11,7 @@ Using the dataset, I will predict and rate whether a person should go to disney 
   </ul>
 <br>
 <br>
-# Capstone Idea #2 Disney-World-Predictor
+# Capstone Idea #2 Predicting Survivabiity of Covid 19
 
 ## Overview
 
