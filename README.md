@@ -1,6 +1,6 @@
-# Capstone Project Ideas
+# Capstone Project 
 
-## 1. Disney World Date and Attendance Predictor
+## Disney World Date and Attendance Predictor
 
 ### Overview
 
