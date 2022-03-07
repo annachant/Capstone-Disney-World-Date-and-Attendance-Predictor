@@ -1,5 +1,7 @@
 # Disney World Date and Attendance Predictor
 
+![Disney Parks](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/disney%20parks.jpeg)
+
 ## Project Overview
 
 There are 58 million people that go to Disney World in Orlando, FL every year. It is no secret that some days are incredibly busier than others and lines can seem like a mile long. Vi sitorsspend tons of money to provide an unforgettable experience for their family and want to have a great time. Depending on the time of year they go, that experience can be absolutely magnificient. I want people to have the same unforgettable experience with their loved ones as I have had in the past, without all the extra worries that can be avoidable, if planned correctly. 
