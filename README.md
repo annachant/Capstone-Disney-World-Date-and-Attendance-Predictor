@@ -1,8 +1,6 @@
-# Capstone Project 
+# Disney World Date and Attendance Predictor
 
-## Disney World Date and Attendance Predictor
-
-### Overview
+## Project Overview
 
 Using the dataset, I will predict and rate whether a person should go to disney on a specific date. I will build these models based on the wait times for the most popular rides from the 4 parks at Walt Disney World in Orlando, FL. 
 <ul>
@@ -11,3 +9,18 @@ Using the dataset, I will predict and rate whether a person should go to disney 
   <li>Hollywood Studios</li>
   <li>Animal Kingdom</li>
   </ul>
+
+### Business Problem
+
+### Data
+
+### Recommendations
+
+### Exploratory Data Analysis
+
+
+## Modeling & Evaluation
+
+
+
+## Next Steps
