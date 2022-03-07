@@ -12,9 +12,11 @@ Using the dataset, I will predict and rate whether a person should go to disney 
 
 ### Business Problem
 
+### Recommendations
+
 ### Data
 
-### Recommendations
+
 
 ### Exploratory Data Analysis
 
@@ -22,5 +24,6 @@ Using the dataset, I will predict and rate whether a person should go to disney 
 ## Modeling & Evaluation
 
 
+## Conclusion & Recommendations
 
 ## Next Steps
