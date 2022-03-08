@@ -77,7 +77,7 @@ The dataset was obtained from https://touringplans.com/walt-disney-world/crowd-c
 
 ### Exploratory Data Analysis 
 
-The data was cleaned and the following was completed in order to get the most accurate and best analysis:
+The data was cleaned for all 12 csv files and the following was completed in order to get the most accurate and best analysis:
 <ul>
 <li>The data used used for the analysis was from 1/1/2015 to 12/31/2019 </li>
   <li>Data was resampled from every 5/10 minutes per day to a daily average per day </li>
@@ -87,9 +87,13 @@ The data was cleaned and the following was completed in order to get the most ac
 ## Modeling & Evaluation
 ![ML](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/ML.jpeg)
 Many different techniques were used, including Arima, Sarimax, Random Forest, and Facebook Profit. Ultimately, Facebook Profit had the best results.
-This was used to build the final models and make predictions. Many models were tested, but a grid search yielded the best results. The results showed even more improvement when the US Holiday Calender was added into the model with the best parameters from the grid search. Below are the results comparing the base model, the best parameters from the grid search, and those same parameters with the US Holiday Calendar added to the parameters.
+This was used to build the final models and make predictions. Many models were tested, but a grid search yielded the best results. The results showed even more improvement when the US Holiday Calender was added into the model with the best parameters from the grid search. 
 
+Below are the results comparing the base model(1), the best parameters from the grid search(2), and those same parameters with the US Holiday Calendar added to the parameters(3):
 ![mape](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-08%20at%2012.45.29%20AM.png)
+
+Once the optimal parameters were applied and we take a close look at the results, a very noticeable trend is present for all the rides:
+![forecast model](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-08%20at%201.31.26%20AM.png)
 
 ## Conclusion & Recommendations
 
