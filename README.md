@@ -30,6 +30,7 @@ These were my guiding questions in which my project was modeled:
 ### Recommendations
 
 ## Data
+![databanner](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/data-science-banner.jpeg)
 
 The dataset was obtained from https://touringplans.com/walt-disney-world/crowd-calendar#DataSets. It contains wait time information that was collected every 5-10 minutes for the top rides in Disney World from January 2015 to Dec 2021.
 
