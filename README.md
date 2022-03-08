@@ -114,7 +114,33 @@ When looking at the rides individually, similar to the model above, September is
 
 ## Best Disney Day with Kids
 
+Some days are better than others to attend the park if you have children in your family. I took a look at this by making a forecast using kid friendly rides that are geared more towards children. There is also a very obvious trend of the best days being in the 2nd or 3rd week of September. 
+
+### Magic Kingdom
+
+![mkkids](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-08%20at%209.50.25%20AM.png)
+
+### Epcot
+
+![epcotkids](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-08%20at%2010.06.07%20AM.png)
+
+### Hollywood Studios
+
+![HSkids](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-08%20at%2010.07.20%20AM.png)
+
+### Animal Kingdom
+
+![AKkids](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-08%20at%2010.08.16%20AM.png)
+
 ## Best Disney Day without Kids
+
+### Magic Kingdom
+
+### Epcot
+
+### Hollywood Studios
+
+### Animal Kingdom
 
 # Conclusion & Recommendations
 
