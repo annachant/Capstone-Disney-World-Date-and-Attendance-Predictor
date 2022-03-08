@@ -35,7 +35,16 @@ I will recommend the following:
 ## Data
 ![databanner](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/data-science-banner.jpeg)
 
-The dataset was obtained from https://touringplans.com/walt-disney-world/crowd-calendar#DataSets. It contains wait time information that was collected every 5-10 minutes for the top rides in Disney World from January 2015 to Dec 2021.
+The dataset was obtained from https://touringplans.com/walt-disney-world/crowd-calendar#DataSets. It contains wait time information that was collected every 5-10 minutes for the top rides in Disney World from January 2015 to Dec 2021. There are wait times for the following 12 rides across all 4 parks:
+
+<ul>
+  <li>Magic Kingdom</li>
+     <li>-sample</li>
+  <li>Epcot</li>
+  <li>Hollywood Studios</li>
+  <li>Animal Kingdom</li>
+  </ul>
+
 
 
 ### Exploratory Data Analysis 
@@ -44,9 +53,7 @@ The data was cleaned and the following was completed in order to get the most ac
 <ul>
 <li>The data used used for the analysis was from 1/1/2015 to 12/31/2019 </li>
   <li>Data was resampled from every 5/10 minutes per day to a daily average per day </li>
-  <li>Slinky dog ride was excluded from the analysis due to it beung newer and there is not enough data to make asn accurate prediction</li>
-  <li>xxx</li>
-  <li>xxx</li>
+ <li>Slinky dog ride was excluded from the analysis due to it beung newer and there is not enough data to make asn accurate prediction</li>
   </ul>
 
 ## Modeling & Evaluation
