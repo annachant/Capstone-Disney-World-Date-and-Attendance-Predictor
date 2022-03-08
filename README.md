@@ -89,7 +89,7 @@ The data was cleaned for all 12 csv files and the following was completed in ord
 Many different techniques were used, including Arima, Sarimax, Random Forest, and Facebook Profit. Ultimately, Facebook Profit had the best results.
 This was used to build the final models and make predictions. Many models were tested, but a grid search yielded the best results. The results showed even more improvement when the US Holiday Calender was added into the model with the best parameters from the grid search. 
 
-### Best Time by Attraction
+### Best Disney Day by Attraction
 
 Below are the results comparing the base model(1), the best parameters from the grid search(2), and those same parameters with the US Holiday Calendar added to the parameters(3):
 <br>
@@ -101,6 +101,16 @@ Once the optimal parameters were applied and we take a close look at the results
 When looking at the rides individually, similar to the model above, September is the most optimal best time . This is true in all cases, except for one ride - Splash Mountain. The best time to go ride on Splash Mountain is in January. According to weatherspark.com, the coldest month of the year in Orlando is January, with an average low of 52°F and high of 71°F. It is very understandble why guests may not want to get soaking wet during a cold month! See below for Splash Mountain:
 
 ![splashmountain](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-08%20at%208.23.58%20AM.png)
+
+### Best Disney Day by Park
+
+#### Magic Kingdom
+
+#### Epcot
+
+#### Hollywood Studios
+
+#### Animal Kingdom
 
 ## Conclusion & Recommendations
 
