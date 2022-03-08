@@ -39,10 +39,24 @@ The dataset was obtained from https://touringplans.com/walt-disney-world/crowd-c
 
 <ul>
   <li>Magic Kingdom</li>
-     -sample
+      - Seven Dwarfs Mine Train
+      - Pirates of the Caribbean
+      - Splash Mountain
+   
   <li>Epcot</li>
+      - Soarin
+      - Spaceship Earth
+  
   <li>Hollywood Studios</li>
+      - Rock n Rollercoaster
+      - Slinky Dog Ride
+      - Toy Story Mania
+  
   <li>Animal Kingdom</li>
+      - Dinosaur
+      - Expedition Everest
+      - Kilimajaro Safari
+      - Navi River
   </ul>
 
 
