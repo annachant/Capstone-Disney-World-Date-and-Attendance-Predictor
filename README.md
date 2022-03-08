@@ -112,9 +112,14 @@ When looking at the rides individually, similar to the model above, September is
 
 #### Animal Kingdom
 
+### Best Disney Day with Kids
+
+### Best Disney Day without Kids
+
 ## Conclusion & Recommendations
 
 
 
 ## Next Steps
 ![crowds](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/crowds.jpeg)
+
