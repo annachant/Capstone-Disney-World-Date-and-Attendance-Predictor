@@ -86,7 +86,10 @@ The data was cleaned and the following was completed in order to get the most ac
 
 ## Modeling & Evaluation
 ![ML](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/ML.jpeg)
-Facebook Prophet was used to build the model and make predictions. 
+Many different techniques were used, including Arima, Sarimax, Random Forest, and Facebook Profit. Ultimately, Facebook Profit had the best results.
+This was used to build the final models and make predictions. Many models were tested, but a grid search yielded the best results. The results showed even more improvement when the US Holiday Calender was added into the model with the best parameters from the grid search. Below are the results comparing the base model, the best parameters from the grid search, and those same parameters with the US Holiday Calendar added to the parameters.
+
+![mape](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-08%20at%2012.45.29%20AM.png)
 
 ## Conclusion & Recommendations
 
