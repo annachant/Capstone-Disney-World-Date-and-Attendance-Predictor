@@ -44,19 +44,19 @@ The dataset was obtained from https://touringplans.com/walt-disney-world/crowd-c
       - Pirates of the Caribbean
   <br>
       - Splash Mountain
-   
+   <br>
   <li>Epcot</li>
       - Soarin
   <br>
       - Spaceship Earth
-  
+  <br>
   <li>Hollywood Studios</li>
       - Rock n Rollercoaster
   <br>
       - Slinky Dog Ride
   <br>
       - Toy Story Mania
-  
+  <br>
   <li>Animal Kingdom</li>
       - Dinosaur
   <br>
