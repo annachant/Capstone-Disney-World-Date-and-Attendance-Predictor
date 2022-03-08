@@ -86,9 +86,11 @@ The data was cleaned and the following was completed in order to get the most ac
 
 ## Modeling & Evaluation
 ![ML](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/ML.jpeg)
-
+Facebook Prophet was used to build the model and make predictions. 
 
 ## Conclusion & Recommendations
+
+
 
 ## Next Steps
 ![crowds](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/crowds.jpeg)
