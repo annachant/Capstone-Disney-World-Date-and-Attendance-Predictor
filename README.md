@@ -45,3 +45,4 @@ The dataset was obtained from https://touringplans.com/walt-disney-world/crowd-c
 ## Conclusion & Recommendations
 
 ## Next Steps
+![crowds](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/crowds.jpeg)
