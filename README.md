@@ -32,7 +32,7 @@ These were my guiding questions in which my project was modeled:
 
 I will recommend the following:
 
-## Data
+# Data
 ![databanner](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/data-science-banner.jpeg)
 
 The dataset was obtained from https://touringplans.com/walt-disney-world/crowd-calendar#DataSets. It contains wait time information that was collected every 5-10 minutes for the top rides in Disney World from January 2015 to Dec 2021. There are wait times for the following 12 rides across all 4 parks:
@@ -75,7 +75,7 @@ The dataset was obtained from https://touringplans.com/walt-disney-world/crowd-c
 
 
 
-### Exploratory Data Analysis 
+## Exploratory Data Analysis 
 
 The data was cleaned for all 12 csv files and the following was completed in order to get the most accurate and best analysis:
 <ul>
@@ -84,12 +84,12 @@ The data was cleaned for all 12 csv files and the following was completed in ord
  <li>Slinky dog ride was excluded from the analysis due to it beung newer and there is not enough data to make asn accurate prediction</li>
   </ul>
 
-## Modeling & Evaluation
+# Modeling & Evaluation
 ![ML](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/ML.jpeg)
 Many different techniques were used, including Arima, Sarimax, Random Forest, and Facebook Profit. Ultimately, Facebook Profit had the best results.
 This was used to build the final models and make predictions. Many models were tested, but a grid search yielded the best results. The results showed even more improvement when the US Holiday Calender was added into the model with the best parameters from the grid search. 
 
-### Best Disney Day by Attraction
+## Best Disney Day by Attraction
 
 Below are the results comparing the base model(1), the best parameters from the grid search(2), and those same parameters with the US Holiday Calendar added to the parameters(3):
 <br>
@@ -102,24 +102,24 @@ When looking at the rides individually, similar to the model above, September is
 
 ![splashmountain](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-08%20at%208.23.58%20AM.png)
 
-### Best Disney Day by Park
+## Best Disney Day by Park
 
-#### Magic Kingdom
+### Magic Kingdom
 
-#### Epcot
+### Epcot
 
-#### Hollywood Studios
+### Hollywood Studios
 
-#### Animal Kingdom
+### Animal Kingdom
 
-### Best Disney Day with Kids
+## Best Disney Day with Kids
 
-### Best Disney Day without Kids
+## Best Disney Day without Kids
 
-## Conclusion & Recommendations
+# Conclusion & Recommendations
 
 
 
-## Next Steps
+# Next Steps
 ![crowds](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/crowds.jpeg)
 
