@@ -45,11 +45,13 @@ The dataset was obtained from https://touringplans.com/walt-disney-world/crowd-c
   <br>
       - Splash Mountain
    <br>
+  <br>
   
   <li>Epcot</li>
       - Soarin
   <br>
       - Spaceship Earth
+  <br>
   <br>
   
   <li>Hollywood Studios</li>
@@ -58,6 +60,7 @@ The dataset was obtained from https://touringplans.com/walt-disney-world/crowd-c
       - Slinky Dog Ride
   <br>
       - Toy Story Mania
+  <br>
   <br>
   
   <li>Animal Kingdom</li>
