@@ -39,7 +39,7 @@ The dataset was obtained from https://touringplans.com/walt-disney-world/crowd-c
 
 <ul>
   <li>Magic Kingdom</li>
-     <li>-sample</li>
+     -sample
   <li>Epcot</li>
   <li>Hollywood Studios</li>
   <li>Animal Kingdom</li>
