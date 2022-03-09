@@ -9,9 +9,9 @@ from PIL import Image
 
 
 
-image = Image.open('/Users/dc/desktop/flatiron/projects/Capstone-Disney-World-Date-and-Attendance-Predictor/Streamlit_App/banner5.jpeg')
+image = Image.open('/Users/dc/desktop/flatiron/projects/Capstone-Disney-World-Date-and-Attendance-Predictor/Streamlit_App/disney_parks.jpeg)
 
-st.image(image, caption='wdw')
+# st.image(image, caption='wdw')
 
 pd.set_option("display.max_rows", None, "display.max_columns", None)
 
