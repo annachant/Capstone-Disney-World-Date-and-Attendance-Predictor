@@ -11,7 +11,7 @@ from PIL import Image
 
 image = Image.open('/Users/dc/desktop/flatiron/projects/Capstone-Disney-World-Date-and-Attendance-Predictor/Streamlit_App/disney_parks.jpeg')
 
-# st.image(image, caption='wdw')
+st.image(image, caption='')
 
 pd.set_option("display.max_rows", None, "display.max_columns", None)
 
@@ -45,9 +45,11 @@ for i in datasets:
 st.sidebar.markdown("### Aloha!")
 st.sidebar.markdown("Welcome to the Disney Day app! This app is designed to predict whether the day you would like to go to a particular park in Disney World is a good day to go! This app uses data sourced from touringplans.com. I hope you enjoy!")
 
+st.markdown("***")
 #Add title and subtitle to the main interface of the app
 st.title("Walt Disney World Predictor")
 st.markdown("Did you know that there are 58 million people that go to Disney World in Orlando, FL every year? It is no secret that some days are incredibly busier than others and lines can seem like a mile long. Visitors spend tons of money to provide an unforgettable experience for their family and want to have a great time. Depending on the time of year you go, that experience can be absolutely magnificient, if the timing is great! I want you to have that same unforgettable experience!")
+st.markdown("***")
 st.markdown("Input the date of your planned visit, along with the park you would like to attend. The algorithm will work its magic and tell you whether it is a great day to go, or not!")
 
 park_names = []
