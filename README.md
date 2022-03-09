@@ -145,7 +145,9 @@ Some days are better than others to attend the park if you have children in your
 # Conclusion & Recommendations
 ![banner](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/banner5.jpeg)
 
+Below are a list of recommendations. If you are traveling with kids, the rides you go on will be geared more towards children. There is also a recommendation for if you are going without kids, and if there is a particular park you want to visit. 
 
+![recc](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/recc.png)
 
 # Next Steps
 ![crowds](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/crowds.jpeg)
