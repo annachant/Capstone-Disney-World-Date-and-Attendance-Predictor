@@ -9,7 +9,7 @@ from PIL import Image
 
 
 
-image = Image.open('/Users/dc/desktop/flatiron/projects/Capstone-Disney-World-Date-and-Attendance-Predictor/Streamlit_App/disney_parks.jpeg)
+image = Image.open('/Users/dc/desktop/flatiron/projects/Capstone-Disney-World-Date-and-Attendance-Predictor/Streamlit_App/disney_parks.jpeg')
 
 # st.image(image, caption='wdw')
 
