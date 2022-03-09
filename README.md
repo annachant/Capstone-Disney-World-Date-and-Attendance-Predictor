@@ -143,6 +143,7 @@ Some days are better than others to attend the park if you have children in your
 ### Animal Kingdom
 
 # Conclusion & Recommendations
+![banner](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/banner5.jpeg)
 
 
 
