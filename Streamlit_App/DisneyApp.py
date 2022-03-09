@@ -5,6 +5,20 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import streamlit as st
+from PIL import Image
+
+# def img_to_bytes(img_path):
+#     img_bytes = Path(img_path).read_bytes()
+#     encoded = base64.b64encode(img_bytes).decode()
+#     return encoded
+
+# header_html = "<img src='https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/banner5.jpeg' class='img-fluid'>".format(
+#     img_to_bytes("header.png")
+# )
+# st.markdown(
+#     header_html, unsafe_allow_html=True,
+# )
+
 
 pd.set_option("display.max_rows", None, "display.max_columns", None)
 
