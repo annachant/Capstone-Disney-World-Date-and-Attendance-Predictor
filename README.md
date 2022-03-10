@@ -32,6 +32,12 @@ These were my guiding questions in which my project was modeled:
 
 I will recommend the following:
 
+<ul>
+  <li>Go to Disney World in September.</li>
+  <li>The best week to go are the 2nd and 3rd weeks in September</li>
+  <li>The best days are Sunday, Wednesday, and Thursday during those timeframes.</li>
+  </ul>
+
 # Data
 ![databanner](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/data-science-banner.jpeg)
 
@@ -131,9 +137,6 @@ Below is a snapshot of the top 5 best days for each park:
 ## Best Disney Day without Kids
 
 If you are not traveling with kids. This is the best time to go. As you can see, this changed slightly, but ultimately, September is still the best time to go. 
-
-![image](https://user-images.githubusercontent.com/94410188/157774993-726d401e-94ba-4232-a0db-ea13e6853205.png)
-
 
 ![withoutkids](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-10%20at%206.34.36%20PM.png)
 
