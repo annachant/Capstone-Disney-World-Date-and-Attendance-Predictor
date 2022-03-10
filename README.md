@@ -102,15 +102,7 @@ When looking at the rides individually, similar to the model above, September is
 
 ![splashmountain](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-08%20at%208.23.58%20AM.png)
 
-## Best Disney Day by Park
-
-### Magic Kingdom
-
-### Epcot
-
-### Hollywood Studios
-
-### Animal Kingdom
+![bypark](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-10%20at%206.34.44%20PM.png)
 
 ## Best Disney Day with Kids
 
@@ -139,6 +131,7 @@ Below is a snapshot of the top 5 best days for each park:
 ## Best Disney Day without Kids
 
 If you are not traveling with kids. This is the best time to go. As you can see, this changed slightly, but ultimately, September is still the best time to go. 
+
 ![image](https://user-images.githubusercontent.com/94410188/157774993-726d401e-94ba-4232-a0db-ea13e6853205.png)
 
 
