@@ -143,7 +143,7 @@ If you are not traveling with kids. This is the best time to go. As you can see,
 # Conclusion & Recommendations
 ![banner](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/banner5.jpeg)
 
-Below are a list of recommendations. If you are traveling with kids, the rides you go on will be geared more towards children. There is also a recommendation for if you are going without kids, and if there is a particular park you want to visit. 
+Below is the overall list of recommendations. If you are traveling with kids, the rides you go on will be geared more towards children. There is also a recommendation for if you are going without kids, and if there is a particular park you want to visit. 
 
 ![recc](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/recc.png)
 
