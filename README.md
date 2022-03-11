@@ -152,6 +152,6 @@ Below is the overall list of recommendations. If you are traveling with kids, th
 
 ![recc](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/recc.png)
 
-# Next Steps
+
 ![crowds](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/crowds.jpeg)
 
