@@ -108,7 +108,6 @@ When looking at the rides individually, similar to the model above, September is
 
 ![splashmountain](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-08%20at%208.23.58%20AM.png)
 
-![bypark](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-10%20at%206.34.44%20PM.png)
 
 ## Best Disney Day with Kids
 
@@ -140,7 +139,13 @@ If you are not traveling with kids. This is the best time to go. As you can see,
 
 ![withoutkids](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-10%20at%206.34.36%20PM.png)
 
-# Conclusion & Recommendations
+## Best Disney Day by Park
+
+If you just love one park more than others, my personal favorite is Epcot, these predictions are based on the park alone. 
+
+![bypark](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-10%20at%206.34.44%20PM.png)
+
+# Conclusion 
 ![banner](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/banner5.jpeg)
 
 Below is the overall list of recommendations. If you are traveling with kids, the rides you go on will be geared more towards children. There is also a recommendation for if you are going without kids, and if there is a particular park you want to visit. 
