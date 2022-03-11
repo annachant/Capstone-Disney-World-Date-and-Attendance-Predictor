@@ -116,7 +116,7 @@ Some days are better than others to attend the park if you have children in your
 
 ![withkids](https://github.com/annachant/Capstone-Disney-World-Date-and-Attendance-Predictor/blob/main/images/Screen%20Shot%202022-03-10%20at%206.34.14%20PM.png)
 
-Below is a snapshot of the top 5 best days for each park:
+Below is a snapshot of the top 5 best days for each park and the average wait time:
 
 ### Magic Kingdom
 
